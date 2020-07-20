@@ -5,4 +5,4 @@ Jogo da Forca - Tente adivinhar qual é a palavra oculta.
 
 <h3>Inglês (English)</h3>
 
-Hangman - Try to guess what the hidden word is.
+Hangman - Try to guess what the hidden word is. (The words are in Portuguese!)
