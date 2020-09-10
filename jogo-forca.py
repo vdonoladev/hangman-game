@@ -32,7 +32,7 @@ class arquivos:
         self.canvas4.pack()
 
         self.caixa=StringVar()
-        root.title('Jogo da Forca - Victor Donola (vdonoladev)')
+        root.title('Jogo da Forca')
 
         ret=self.canvas.create_rectangle
 
